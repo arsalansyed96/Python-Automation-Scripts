@@ -1,3 +1,5 @@
+@echo off
+
 IF /i "%1%"=="convert" goto convert
 IF /i "%1%"=="copy" goto copy
 
